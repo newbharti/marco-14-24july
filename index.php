@@ -1,4 +1,6 @@
-	<!DOCTYPE html>
+<?php
+?>
+<!DOCTYPE html>
 	<html lang="zxx" class="no-js">
 	<head>
 		<!-- Mobile Specific Meta -->
